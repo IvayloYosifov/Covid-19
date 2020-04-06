@@ -1,0 +1,135 @@
+Name,Code,Status,Due Date
+Argentina,AR,2,
+Australia,AU,2,
+Austria,AT,2,4/13/2020
+Bangladesh,BD,2,
+Belgium,BE,2,4/19/2020
+Bolivia,BO,2,
+Bosnia & Herzegovina,BA,2,
+Brazil,BR,0,
+Bulgaria,BG,2,5/13/2020
+Alberta,CA-AB,2,
+British Columbia,CA-BC,1,4/14/2020
+Manitoba,CA-MB,2,
+New Brunswick,CA-NB,2,
+Nova Scotia,CA-NS,2,
+Ontario,CA-ON,2,
+Prince Edward Island,CA-PE,2,
+Quebec,CA-QC,2,
+Saskatchewan,CA-SK,2,
+Northwest Territories,CA-NT,2,
+Yukon,CA-YT,2,
+Canada,CA,2,
+Chile,CL,1,
+China,CN,1,
+Colombia,CO,2,
+Croatia,HR,2,
+Cyprus,CY,2,
+Czech Republic,CZ,2,4/11/2020
+Denmark,DK,2,
+Dominican Republic,DO,1,
+Ecuador,EC,1,
+Egypt,EG,1,
+Estonia,EE,2,
+Finland,FI,2,
+France,FR,2,4/15/2020
+Georgia,GE,2,
+Germany,DE,2,4/19/2020
+Greece,GR,2,
+Guatemala,GT,2,
+Hong Kong,HK,0,
+Hungary,HU,2,4/11/2020
+Iceland,IS,1,
+India,IN,2,
+Indonesia,ID,0,
+Iran,IR,1,
+Ireland,IE,2,
+Israel,IL,2,
+Italy,IT,2,4/13/2020
+Japan,JP,1,
+Latvia,LV,2,
+Lebanon,LB,2,
+Lithuania,LT,2,
+Macedonia,MK,2,
+Malaysia,MY,2,
+Mexico,MX,2,
+Netherlands,NL,2,4/28/2020
+New Zealand,NZ,2,
+Norway,NO,2,
+Pakistan,PK,2,
+Panama,PA,2,
+Paraguay,PY,0,
+Peru,PE,2,
+Philippines,PH,2,
+Poland,PL,2,4/11/2020
+Portugal,PT,2,4/17/2020
+Puerto Rico,PR,2,4/13/2020
+Romania,RO,2,
+Russia,RU,1,
+Saudi Arabia,SA,2,
+Serbia,RS,2,
+Singapore,SG,2,
+Slovakia,SK,2,
+Slovenia,SI,2,
+South Africa,ZA,2,
+South Korea,KR,1,
+Spain,ES,2,4/11/2020
+Sweden,SE,0,
+Switzerland,CH,2,
+Taiwan,TW,1,
+Thailand,TH,2,
+Turkey,TR,2,
+UK,GB,2,4/13/2020
+Ukraine,UA,2,4/24/2020
+Uruguay,UY,1,
+Alabama,US-AL,2,
+Alaska,US-AK,2,4/11/2020
+Arizona,US-AZ,1,
+Arkansas,US-AR,1,
+California,US-CA,2,
+Colorado,US-CO,2,4/11/2020
+Connecticut,US-CT,2,
+Delaware,US-DE,1,4/15/2020
+Florida,US-FL,2,
+Georgia,US-GA,1,4/13/2020
+Hawaii,US-HI,2,4/30/2020
+Idaho,US-ID,2,4/15/2020
+Illinois,US-IL,2,4/30/2020
+Indiana,US-IN,2,
+Iowa,US-IA,1,
+Kansas,US-KS,1,4/19/2020
+Kentucky,US-KY,1,
+Louisiana,US-LA,2,4/30/2020
+Maine,US-ME,2,4/30/2020
+Maryland,US-MD,2,
+Massachusetts,US-MA,1,5/4/2020
+Michigan,US-MI,2,
+Minnesota,US-MN,1,4/10/2020
+Mississippi,US-MS,2,
+Missouri,US-MO,1,4/24/2020
+Montana,US-MT,1,
+Nebraska,US-NE,1,
+Nevada,US-NV,2,4/30/2020
+New Hampshire,US-NH,1,5/4/2020
+New Jersey,US-NJ,2,
+New Mexico,US-NM,2,
+New York,US-NY,2,
+North Carolina,US-NC,2,
+North Dakota,US-ND,1,
+Ohio,US-OH,2,
+Oklahoma,US-OK,1,
+Oregon,US-OR,1,
+Pennsylvania,US-PA,2,4/30/2020
+Rhode Island,US-RI,2,4/13/2020
+South Carolina,US-SC,1,
+South Dakota,US-SD,1,
+Tennessee,US-TN,1,4/14/2020
+Texas,US-TX,1,4/30/2020
+Utah,US-UT,1,
+Vermont,US-VT,2,4/15/2020
+Virginia,US-VA,2,
+Washington,US-WA,2,
+West Virginia,US-WV,2,
+Wisconsin,US-WI,2,4/24/2020
+Wyoming,US-WY,1,
+USA,US,1,
